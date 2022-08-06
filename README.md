@@ -1,11 +1,11 @@
 # Global-Terrorism-Database-EDA
 
-**Summary**:
+<u>**Summary**<u>:
 
 The world has been facing the problem of terrorism for ages. The very first terrorist activity ever formally recorded in a database was the assassination of Julio Guzman in the Dominican Republic, by a group named MANO D. Since then, the agenda, objective, means, motives, and scale of the terrorist activities have varied widely. Now we are dealing with attacks with targets ranging from individuals to mass, with methods that are developing to be deadlier day by day.
 The approach to tackle this problem, like any other has to begin with looking at the data. And that’s what the Study of Terrorism and Response to Terrorism (START).org has been doing for decades. They have put together a comprehensive database describing over 1.7 lakh terrorist attacks around the globe from as late as the 1970s all the way to the current day. There are over 136 different fields describing each of those attacks, which will be explored in detail duly. 
 
-**Objective**:
+<u>**Objective**<u>:
 
 To perform Exploratory Data Analysis on the Global Terrorism Database made available by START.org in order to uncover underlying patterns and pieces of information that would help us to gain better insight into the problem of terrorism.
 
