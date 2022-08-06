@@ -35,18 +35,15 @@ number includes all victims and attackers who died as a direct result of the inc
 2 
 22. alternative_txt: This variable applies to only those cases coded as “Yes” for “Doubt Terrorism Proper?” (above). This variable identifies the most likely categorization of the incident other than terrorism. 
 
-**Approach**:
-
-I approached this problem statement with a Top down appraoch of looking at the global context, then trim down to South Asian continent and finally the Indian context. The idea was to be able to compare how our home country and continent stands compared to the rest of the world. 
 
 **Results**:
 
-We selected 25 out of 136 fields in the Global Terrorism Database to be thoroughly analysed through Exploratory Data Analysis methodology. We started off our analysis on a global scale, and dived deeper to South Asian and Indian level to compare the standing of our home country with the rest of the world. 
+I selected 25 out of 136 fields in the Global Terrorism Database to be thoroughly analysed through Exploratory Data Analysis methodology. I started off our analysis on a global scale, and dived deeper to South Asian and Indian level to compare the standing of our home country with the rest of the world. 
 Attack frequency, casualties, major groups, affected regions, comparison between regions etc, were the major components of this analysis. 
-We further performed a few stand alone analysis namely, Success of Terrorism, Actions of major groups, Heat map analysis of organisations and attack types used to gain further understanding of the situation.
+I further performed a few stand alone analysis namely, Success of Terrorism, Actions of major groups, Heat map analysis of organisations and attack types used, to gain further understanding of the situation.
 13 
 
-It is to be noted that the analysis mentioned here in the documentations are a brief version of the actual project. Detailed version of the same can be found in Google Collaboratory Notebook. 
+It is to be noted that the analysis mentioned here in the documentation are a brief version of the actual project. Detailed version of the same can be found in Google Collaboratory Notebook. 
 Use cases of this EDA can be extended to educational and academical use and historical pattern analysis. 
 Given the size of the data set, the possibilities to continue the analysis on other fields in the dataset are quite vast. 
 Future scopes of the project may include prediction and prevention of such attacks to a good extent by integration of Machine Learning and Artificial Intelligence elements.
