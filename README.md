@@ -1,15 +1,15 @@
 # Global-Terrorism-Database-EDA
 
-<u>**Summary**<u>:
+# Summary:
 
 The world has been facing the problem of terrorism for ages. The very first terrorist activity ever formally recorded in a database was the assassination of Julio Guzman in the Dominican Republic, by a group named MANO D. Since then, the agenda, objective, means, motives, and scale of the terrorist activities have varied widely. Now we are dealing with attacks with targets ranging from individuals to mass, with methods that are developing to be deadlier day by day.
 The approach to tackle this problem, like any other has to begin with looking at the data. And that’s what the Study of Terrorism and Response to Terrorism (START).org has been doing for decades. They have put together a comprehensive database describing over 1.7 lakh terrorist attacks around the globe from as late as the 1970s all the way to the current day. There are over 136 different fields describing each of those attacks, which will be explored in detail duly. 
 
-<u>**Objective**<u>:
+# Objective:
 
 To perform Exploratory Data Analysis on the Global Terrorism Database made available by START.org in order to uncover underlying patterns and pieces of information that would help us to gain better insight into the problem of terrorism.
 
-**About Dataset**:
+# About Dataset:
 
 Owing to the size of the dataset, it'd not be practical to perform EDA on all the fields in the dataset. Following are the 22 fields I filtered on to perform EDA: 
 1. eventid: Incidents from the GTD follow a 12-digit Event ID system. 
@@ -36,7 +36,7 @@ number includes all victims and attackers who died as a direct result of the inc
 22. alternative_txt: This variable applies to only those cases coded as “Yes” for “Doubt Terrorism Proper?” (above). This variable identifies the most likely categorization of the incident other than terrorism. 
 
 
-**Results**:
+# Results:
 
 I selected 25 out of 136 fields in the Global Terrorism Database to be thoroughly analysed through Exploratory Data Analysis methodology. I started off our analysis on a global scale, and dived deeper to South Asian and Indian level to compare the standing of our home country with the rest of the world. 
 Attack frequency, casualties, major groups, affected regions, comparison between regions etc, were the major components of this analysis. 
